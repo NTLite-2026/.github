@@ -38,9 +38,9 @@ NTLite can integrate Windows updates directly into installation images. Updates 
 
 Driver integration allows compatible driver packages to be added to Windows images. This can be useful for deployment environments where specific storage, network, USB, or other hardware drivers need to be available during installation.
 
-Windows optional features and Features on Demand can also be configured. Depending on the Windows version and edition, available components can include .NET Framework features, RSAT tools, OpenSSH, language components, Media Feature Pack components, and other optional Windows capabilities. :contentReference[oaicite:0]{index=0}
+Windows optional features and Features on Demand can also be configured. Depending on the Windows version and edition, available components can include .NET Framework features, RSAT tools, OpenSSH, language components, Media Feature Pack components, and other optional Windows capabilities. 
 
-NTLite downloads supported Windows update packages from Microsoft servers and can verify downloaded update files before they are used. :contentReference[oaicite:1]{index=1}
+NTLite downloads supported Windows update packages from Microsoft servers and can verify downloaded update files before they are used. 
 
 ---
 
@@ -56,7 +56,7 @@ For organizations or users deploying Windows repeatedly, reusable presets can he
 
 # System Compatibility & Performance
 
-NTLite is designed primarily for Windows customization and deployment workflows rather than everyday desktop operation. The current release supports Windows 7 and newer hosts, with x86 and x64 architectures; Windows 10 or newer is required as the host when editing Windows 10+ images. :contentReference[oaicite:2]{index=2}
+NTLite is designed primarily for Windows customization and deployment workflows rather than everyday desktop operation. The current release supports Windows 7 and newer hosts, with x86 and x64 architectures; Windows 10 or newer is required as the host when editing Windows 10+ images.
 
 | Component | Practical Configuration |
 |---|---|
